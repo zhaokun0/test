@@ -1,2 +1,2 @@
-<?php
-phpinfo();
+nothing to say
+
